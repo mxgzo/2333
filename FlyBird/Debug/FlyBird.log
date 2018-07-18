@@ -1,7 +1,15 @@
-﻿  Scene.cpp
-f:\openglproject\flybird\flybird\image.h(64): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
-f:\openglproject\flybird\flybird\scene.cpp(25): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
-f:\openglproject\flybird\flybird\scene.cpp(26): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+﻿  main.cpp
+f:\openglproject\flybird\flybird\main.cpp(1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  f:\openglproject\flybird\flybird\main.cpp(1): note: 命令行参数: 参见前面的“_CRT_SECURE_NO_WARNINGS”定义
+f:\openglproject\flybird\flybird\image.h(63): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  Scene.cpp
+f:\openglproject\flybird\flybird\scene.cpp(1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  f:\openglproject\flybird\flybird\scene.cpp(1): note: 命令行参数: 参见前面的“_CRT_SECURE_NO_WARNINGS”定义
+f:\openglproject\flybird\flybird\image.h(63): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
 f:\openglproject\flybird\flybird\scene.cpp(27): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
-f:\openglproject\flybird\flybird\scene.cpp(129): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\openglproject\flybird\flybird\scene.cpp(28): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+f:\openglproject\flybird\flybird\scene.cpp(29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+f:\openglproject\flybird\flybird\scene.cpp(131): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+f:\openglproject\flybird\flybird\main.cpp(150): warning C4715: “WinMain”: 不是所有的控件路径都返回值
   FlyBird.vcxproj -> F:\OpenGLProject\FlyBird\Debug\FlyBird.exe
